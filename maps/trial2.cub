@@ -1,0 +1,16 @@
+NO ./textures/trial_images/green_arrow.xpm
+SO ./textures/trial_images/green_square.xpm
+WE ./textures/trial_images/green_neon.xpm   
+EA ./textures/trial_images/neon_door.xpm
+
+F 20,20,20
+C 22,0,44
+
+1111111111111111111
+1000000000000000001
+10000000W0000000001
+1000000000000000001
+1000000000000000001
+1000000000000000001
+1000000000000000001
+1111111111111111111
